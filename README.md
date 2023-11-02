@@ -7,6 +7,7 @@ My scheduler is for the working man/woman with a workday bursting at the seams! 
 ## Installation
 
 No installation required! Simply click the link to check out and use the workday scheduler! If you would like to save the event you type, simply click the 'save' button at the end of each box.
+https://snipamasta.github.io/New-Daily-Planner/
 
 ## Usage
 
